@@ -1,0 +1,4 @@
+greeting:
+   message: Hello World from cloud config in development environment
+   lists: 
+     values: one, two,three

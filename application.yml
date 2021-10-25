@@ -1,0 +1,4 @@
+my:
+   greeting: Hello World from cloud config 
+   lists: 
+     values: one, two,three

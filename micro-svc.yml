@@ -1,0 +1,4 @@
+my:
+   greeting: Hello World from micro-svc 
+   lists: 
+     values: one, two,three, four
